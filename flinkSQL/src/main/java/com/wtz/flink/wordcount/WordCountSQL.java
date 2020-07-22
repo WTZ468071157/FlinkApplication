@@ -5,10 +5,8 @@ import org.apache.flink.api.java.ExecutionEnvironment;
 import org.apache.flink.table.api.Table;
 import org.apache.flink.table.api.TableSchema;
 import org.apache.flink.table.api.java.BatchTableEnvironment;
-import sun.java2d.pipe.AAShapePipe;
 
 import java.util.ArrayList;
-import java.util.concurrent.ExecutorService;
 
 /**
  * @author tiezhu

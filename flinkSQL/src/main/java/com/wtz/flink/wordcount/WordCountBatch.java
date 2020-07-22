@@ -6,8 +6,6 @@ import org.apache.flink.api.java.ExecutionEnvironment;
 import org.apache.flink.api.java.tuple.Tuple2;
 import org.apache.flink.util.Collector;
 
-import javax.sql.DataSource;
-
 /**
  * @author tiezhu
  * Date 2020/7/19 周日
